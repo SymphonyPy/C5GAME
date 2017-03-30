@@ -4,6 +4,10 @@ import requests as rs
 from bs4 import BeautifulSoup as BS
 
 
+def Login():
+    pass
+
+
 def Get_Merchants():
     list = []
     main_list_url = "https://www.c5game.com/dota.html"
